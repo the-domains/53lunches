@@ -1,6 +1,6 @@
 name: 53Lunches
 favicon: null
-layout_spectrum: 0.27852
+layout_spectrum: 0.24548
 typography_spectrum: 0.8544161063618958
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#d3edea'
+    - '#b1cfd3'
+    - '#93afa6'
+    - '#292716'
+    - '#6a5d36'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
