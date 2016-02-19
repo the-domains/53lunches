@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T13:35:37.346Z'
-dateModified: '2016-02-19T13:35:17.229Z'
+datePublished: '2016-02-19T13:39:00.300Z'
+dateModified: '2016-02-19T13:35:45.974Z'
 title: Ogawa Coffee
 author: []
+sourcePath: _posts/2016-02-19-ogawa-coffee.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-ogawa-coffee.md
-published: true
 url: ogawa-coffee/index.html
 _type: Article
 
