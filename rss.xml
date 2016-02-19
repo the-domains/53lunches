@@ -4,8 +4,15 @@
         <description><![CDATA[53Lunches]]></description>
         <link>https://thegrid.ai/53lunches/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 14:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 15:16:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/53lunches/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nanashi]]></title>
+            <description><![CDATA[<article><h1>Nanashi</h1><p>Paris 3e</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96cc827be87badf8fe2696c67d2baad99d4a6481.jpg"></article>]]></description>
+            <link>https://thegrid.ai/53lunches/nanashi/index.html</link>
+            <guid isPermaLink="false">62782fc9-5add-4374-a556-8e9f87bf4dd8</guid>
+            <pubDate>Fri, 19 Feb 2016 15:14:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ogawa Coffee]]></title>
             <description><![CDATA[<article><h1>Ogawa Coffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/724414e1f905b85b3bed4262d7900e6c97c21d91.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/53lunches/67f7d99d-b417-4174-8ed3-6e74112859e4/index.html</link>
             <guid isPermaLink="false">67f7d99d-b417-4174-8ed3-6e74112859e4</guid>
             <pubDate>Thu, 18 Feb 2016 17:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellsworth]]></title>
-            <description><![CDATA[<article><h1>Ellsworth</h1><p>Paris 7e</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30bf03a7a306836775da60f2e126b798897734e9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/53lunches/9aa2f05a-e288-4c44-972b-8a14b26967f0/index.html</link>
-            <guid isPermaLink="false">9aa2f05a-e288-4c44-972b-8a14b26967f0</guid>
-            <pubDate>Thu, 18 Feb 2016 17:07:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
