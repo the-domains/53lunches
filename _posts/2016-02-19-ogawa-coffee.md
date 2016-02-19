@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T20:13:02.269Z'
-dateModified: '2016-02-19T20:12:22.678Z'
+datePublished: '2016-02-19T20:17:02.924Z'
+dateModified: '2016-02-19T20:16:53.388Z'
 title: Ogawa Coffee
 author: []
 sourcePath: _posts/2016-02-19-ogawa-coffee.md
