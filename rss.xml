@@ -4,11 +4,18 @@
         <description><![CDATA[53Lunches]]></description>
         <link>https://thegrid.ai/53lunches/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 20:17:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/53lunches/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Rodez and Friends]]></title>
+            <description><![CDATA[<article><h1>Rodez and Friends</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64a0caaf7846022f61efd31e86ea671606f1a37c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/53lunches/83efff68-f010-430c-bc1f-18e109a46e6f/index.html</link>
+            <guid isPermaLink="false">83efff68-f010-430c-bc1f-18e109a46e6f</guid>
+            <pubDate>Sat, 20 Feb 2016 20:17:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[breakfast at home]]></title>
-            <description><![CDATA[<article><h1>breakfast at home</h1><h2>Avocado Toast with Fried Egg & Chili</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e891fbe-4cc2-4584-8204-0baa2eb1f122.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>breakfast at home</h1><h2>Avocado Toast with Fried Egg & Chili</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d703290a4f555453642013273bc8e429794bf33.jpg"></article>]]></description>
             <link>https://thegrid.ai/53lunches/breakfast-at-home/index.html</link>
             <guid isPermaLink="false">9099301a-94a6-40cc-ab23-3e1d9020b574</guid>
             <pubDate>Sat, 20 Feb 2016 18:12:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/53lunches/d17711c5-d573-4ed8-9cb9-d8f88ab42880/index.html</link>
             <guid isPermaLink="false">d17711c5-d573-4ed8-9cb9-d8f88ab42880</guid>
             <pubDate>Fri, 19 Feb 2016 23:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gene's Chinese Flatbread Cafe]]></title>
-            <description><![CDATA[<article><h1>Gene's Chinese Flatbread Cafe</h1><p>Boston - Chinatown</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6c32860e238ac1e49ac21938003d8314b086015.jpg"></article>]]></description>
-            <link>https://thegrid.ai/53lunches/f01b193c-0cd9-410f-bb17-796a5ba7b934/index.html</link>
-            <guid isPermaLink="false">f01b193c-0cd9-410f-bb17-796a5ba7b934</guid>
-            <pubDate>Thu, 18 Feb 2016 23:07:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
